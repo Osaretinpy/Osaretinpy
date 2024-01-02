@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Osayenti 
+- 👋 Hi, I’m @Osayentin
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Data related projects
